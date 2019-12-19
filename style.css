@@ -190,8 +190,8 @@ color: red
 }
 .our-services h2 
 {
-    font-size: 40px;
-    font-weight: 800;
+    font-size: 35px;
+    font-weight: 600;
     padding: 50px 30px;
     position: relative;
 }
@@ -493,7 +493,7 @@ background-color: #f1f1f1;
 {
     font-size:130%;
     font-weight: bold;
-    color: rgba(0,0,0,0.8);
+    color: rgba(0,0,0,0.7);
 }
 .blog h3:hover
 {
@@ -512,7 +512,7 @@ background-color: #f1f1f1;
 }
 .blog h5
 {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 100; 
 }
 .our-blog h2 
